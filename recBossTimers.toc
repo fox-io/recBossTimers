@@ -1,0 +1,19 @@
+﻿## Interface: 30300
+## Title: recBossTimers
+## Notes: Boss timers for raiding
+## Author: Recluse
+## Version: $Id: recBossTimers.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recMedia, recLib
+
+core\warning.lua
+core\timer.lua
+modules\5s.lua
+modules\eoe.lua
+modules\icc.lua
+modules\naxx.lua
+modules\ony.lua
+modules\os.lua
+modules\pvp.lua
+modules\toc.lua
+modules\uld.lua
+core\init.lua
